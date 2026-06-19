@@ -1,0 +1,14 @@
+{
+    "name": "Test PWA App",
+    "short_name": "PWA",
+    "start_url": "/index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "assets/icon/icon.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        }
+    ]
+}
