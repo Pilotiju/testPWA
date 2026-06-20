@@ -3,7 +3,7 @@
     "short_name": "PWA",
     "start_url": "index.html",
     "background_color": "#000000",
-    "display": "standalone",
+    "display": "fullscreen",
     "icons": [
         {
             "src": "assets/icon/icon.png",
